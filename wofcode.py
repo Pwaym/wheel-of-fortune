@@ -156,7 +156,7 @@ def wofTurn(playerNum):
             stillinTurn = spinWheel(playerNum)
         elif(choice.strip().upper() == "B"):
             stillinTurn = buyVowel(playerNum)
-        elif(choice.upper() == "G"):
+        elif(choice.strip().upper() == "G"):
             stillinTurn = guessWord(playerNum)
         else:
             print("Not a correct option")        
