@@ -1,2 +1,2 @@
-Add your text here and use string.format or string.format_map
-with {variables} to template strings
+{activeplayer}, it's your turn.
+You currently have ${money} in your bank this round.

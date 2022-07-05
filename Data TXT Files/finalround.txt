@@ -1,2 +1,3 @@
-Add your text here and use string.format or string.format_map
-with {variables} to template strings
+Welcome to the final round!
+{activeplayer}, you are playing.
+The letters R-S-T-L-N-E will be revealed, and you will guess 3 consonants and one vowel.

@@ -1,2 +1,2 @@
-Add your text here and use string.format or string.format_map
-with {variables} to template strings
+The round is over!
+The winner of the round is {winner} with ${money} added to their bank.
